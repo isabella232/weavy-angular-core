@@ -1,5 +1,6 @@
 # weavy-angular-core
 ![Weavy Angular Core](https://repository-images.githubusercontent.com/369355597/7c315c80-ba28-11eb-9684-cf49d471ffb6)
+
 A demo project showcasing Weavy Drop-In UI wrapped in an Angular component in ASP.NET Core.
 
 ```
